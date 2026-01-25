@@ -5,9 +5,9 @@
 
 <a id="ru"></a>
 
-# ScherbAlex — витрина проектов 🚀
+# AlexShcherb1173 — рабочий репо 🚀
 
-Этот репозиторий содержит **чистовые (showcase) проекты**, отобранные из рабочих репозиториев.  
+Этот репозиторий содержит **рабочие версии проектов**, отобранные из рабочих репозиториев.  
 Проекты демонстрируют архитектуру, чистый код, тестирование и документацию.
 
 ![Portfolio](https://img.shields.io/badge/Type-Project_Showcase-blueviolet)
@@ -116,9 +116,9 @@ Backend-сервис трекинга привычек
 
 <a id="en"></a>
 
-# ScherbAlex — Project Showcase 🚀
+# AlexShcherb1173 — working repo🚀
 
-This repository contains **production-ready showcase projects** selected from my working repositories.  
+This repository contains **draft of projects** selected from my working repositories.  
 Each project demonstrates architecture, clean code, testing, and documentation.
 
 ---
